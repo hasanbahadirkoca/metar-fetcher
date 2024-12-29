@@ -2,11 +2,11 @@
 
 [🇹🇷 Türkçe README için tıklayın](TURKISH_README.md)
 
-A Python tool to fetch the latest METAR data for a given station code using data from Turkey's Meteorology General Directorate.
+A Python tool to fetch the latest METAR or SPECI data for a given station code using data from Turkey's Meteorology General Directorate ([MGM](https://rasat.mgm.gov.tr)). The tool fetches the latest METAR or SPECI report, whichever is more recent.
 
 ## Features
-- Fetches the latest METAR data for a specific station.
-- Parses HTML content to extract METAR information.
+- Fetches the latest METAR or SPECI data for a specific station.
+- Parses HTML content to extract METAR and SPECI information.
 
 ## Installation
 
@@ -38,7 +38,7 @@ except Exception as e:
 ### Output Example
 
 ```
-Latest METAR: LTCB 281250Z 24004KT 9999 FEW020 SCT030 BKN100 15/10 Q1018
+Latest METAR/SPECI: LTCB 281250Z 24004KT 9999 FEW020 SCT030 BKN100 15/10 Q1018
 ```
 
 ## Contributing
