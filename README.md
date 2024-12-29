@@ -12,7 +12,7 @@ A Python tool to fetch the latest METAR data for a given station code using data
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/metar-fetcher.git
+git clone https://github.com/hasanbahadirkoca/metar-fetcher.git
 cd metar-fetcher
 
 # Install dependencies
