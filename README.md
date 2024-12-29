@@ -2,7 +2,7 @@
 
 [🇹🇷 Türkçe README için tıklayın](README_TR.md)
 
-A Python tool to fetch the latest METAR or SPECI data for a given station code using data from Turkey's Meteorology General Directorate ([MGM](https://rasat.mgm.gov.tr){:target="_blank"}). The tool fetches the latest METAR or SPECI report, whichever is more recent.
+A Python tool to fetch the latest METAR or SPECI data for a given station code using data from Turkey's Meteorology General Directorate ([MGM](https://rasat.mgm.gov.tr)). The tool fetches the latest METAR or SPECI report, whichever is more recent.
 
 ## Features
 - Fetches the latest METAR or SPECI data for a specific station.
