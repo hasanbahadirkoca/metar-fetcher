@@ -1,6 +1,6 @@
 # METAR Fetcher
 
-[🇹🇷 Türkçe README için tıklayın](TURKISH_README.md)
+[🇹🇷 Türkçe README için tıklayın](README_TR.md)
 
 A Python tool to fetch the latest METAR or SPECI data for a given station code using data from Turkey's Meteorology General Directorate ([MGM](https://rasat.mgm.gov.tr){:target="_blank"}). The tool fetches the latest METAR or SPECI report, whichever is more recent.
 
@@ -38,7 +38,7 @@ except Exception as e:
 ### Output Example
 
 ```
-Latest METAR/SPECI: LTCB 281250Z 24004KT 9999 FEW020 SCT030 BKN100 15/10 Q1018
+Latest METAR: LTCB 281250Z 24004KT 9999 FEW020 SCT030 BKN100 15/10 Q1018
 ```
 
 ## Contributing
