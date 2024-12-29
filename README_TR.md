@@ -2,7 +2,7 @@
 
 [🇬🇧 English README](README.md)
 
-Bir istasyon kodu için en güncel METAR veya SPECI verilerini Türkiye Meteoroloji Genel Müdürlüğü'nden ([MGM](https://rasat.mgm.gov.tr){:target="_blank"}) alan Python aracı. Bu araç, METAR veya SPECI raporlarından hangisi daha güncel ise onu getirir.
+Bir istasyon kodu için en güncel METAR veya SPECI verilerini Türkiye Meteoroloji Genel Müdürlüğü'nden ([MGM](https://rasat.mgm.gov.tr)) alan Python aracı. Bu araç, METAR veya SPECI raporlarından hangisi daha güncel ise onu getirir.
 
 ## Özellikler
 - Belirtilen bir istasyon için en güncel METAR veya SPECI verisini getirir.
